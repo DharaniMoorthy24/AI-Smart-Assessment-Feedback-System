@@ -34,9 +34,9 @@ This project aims to revolutionize student assessments by using AI to provide re
 3. Start backend: `npm start`  
    Start frontend: `npm start` (in `/frontend`)
 
-## 👥 Team
-- [Your Name] – AI/ML Developer  
-- [Teammates] – Frontend, Backend, Data Handling
+## Developing Area
+1. AI/ML Developer  
+2. Frontend, Backend, Data Handling
 
 ## 📄 License
 MIT License
